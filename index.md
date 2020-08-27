@@ -1,5 +1,7 @@
 ## Welcome to Sophia´s Computer Programming Portfolio
 
+![Typing Test](https://github.com/sophturn/Programming-Portfolio/blob/gh-pages/images/Screenshot%202020-08-27%20at%207.57.53%20AM.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/sophturn/Programming-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
